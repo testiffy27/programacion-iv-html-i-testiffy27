@@ -1,0 +1,12 @@
+schema: "classroom50/repo-config/v1"
+classroom: "programacion-iv"
+assignment: "html-i"
+owner:
+  username: "testiffy27"
+  id: 211276838
+  accepted_at: "2026-10-11T23:29:57Z"
+source:
+  owner: "TDHclassroom"
+  owner_id: 219900396
+  repo: "html-basic-i"
+  branch: "main"
